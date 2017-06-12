@@ -10,5 +10,10 @@ public class CountN {
 				System.out.println(j);
 			}
 		}
+		for(int k = 1; k < 100; k++){
+			if(k%3 == 0){
+				System.out.println(k);
+			}
+		}
 	}
 }
