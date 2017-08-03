@@ -1,6 +1,11 @@
 package jenkinsGit;
 
 public class CountN {
+	private static int a;
+	
+	public CountN(){
+		a = 1;
+	}
 	public static void main(String[] args){
 		for(int i = 0; i < 10; i++){
 			System.out.println(i);
@@ -14,6 +19,18 @@ public class CountN {
 			if(k%3 == 0){
 				System.out.println(k);
 			}
+		}
+		if(true){
+			if(true){
+				if(true){
+					while(true){
+						
+					}
+				}
+			}
+		}
+		while(true){
+			System.out.println("Ok");
 		}
 	}
 }
