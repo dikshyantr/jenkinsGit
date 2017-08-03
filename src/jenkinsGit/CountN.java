@@ -24,7 +24,9 @@ public class CountN {
 			if(true){
 				if(true){
 					while(true){
-						
+						while(true){
+							
+						}
 					}
 				}
 			}
